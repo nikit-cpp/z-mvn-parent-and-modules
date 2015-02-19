@@ -4,10 +4,13 @@
     <parent>
         <groupId>zpa</groupId>
         <artifactId>z-parent</artifactId>
-        <version>0.0.4</version>
+        <version>0.0.3</version>
     </parent>
 
     <artifactId>z-n2</artifactId>
+    <groupId>zpa</groupId>
+    <version>0.0.3</version>
+    
     
     <dependencies>
         <dependency>
